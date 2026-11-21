@@ -30,7 +30,7 @@ We want 90% of the pitch ready on day one.
 during the hackathon, one layer per task. Each layer adds one mechanism or one
 real data source, and must improve a fixed score against real data.
 The demo shows the finished, deep simulation. The demo does NOT show AI agents
-that improve the model live. See `context/decisions/20261121-0130-depth-grows-before-demo.md`.
+that improve the model live. 
 
 ## The golden rule
 

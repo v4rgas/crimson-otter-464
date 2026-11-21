@@ -2,7 +2,7 @@
 
 - Status: Accepted
 - Date: 2026-11-21
-- Source: human in chat (Claude Code session). Makes `20261120-2310-idea-that-grows-in-depth.md` precise.
+- Source: human in chat (Claude Code session)
 
 ## Decision
 
