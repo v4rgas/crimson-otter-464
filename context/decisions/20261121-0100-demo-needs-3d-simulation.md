@@ -6,11 +6,11 @@
 
 ## Decision
 
-The demo shows a 3D visualization of the simulation itself. The simulated thing (fire, water, air, people) moves in 3D space. Charts or data layers alone are not enough.
+The demo shows a 3D visualization of the simulation itself. The simulated thing moves in 3D space. Charts or data layers alone are not enough.
 
 ## Why
 
-A human said: "lo importante acá es que en la demo haya una visualización 3D de la simulación que sea interesante, no pueden ser puros datos". Style reference: isometric dioramas like tinyrj.com and isometric.nyc. Ideas with a weak 3D scene drop in the ranking (see `context/research/idea-ranking.md`).
+A human said: "lo importante acá es que en la demo haya una visualización 3D de la simulación que sea interesante, no pueden ser puros datos". Style reference: isometric dioramas like tinyrj.com and isometric.nyc.
 
 ## What it means for agents
 
