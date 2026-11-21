@@ -1,6 +1,6 @@
 # Choose an idea that gets deeper with more agent time
 
-- Status: Proposed
+- Status: Superseded by 20261121-0130-depth-grows-before-demo.md
 - Date: 2026-11-20
 - Source: `meetings/2026-11-20-kickoff.md`
 

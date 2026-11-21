@@ -26,6 +26,12 @@ The order of work is:
 
 We want 90% of the pitch ready on day one.
 
+**How the simulation gets deep.** Our coding agents make the simulation deeper
+during the hackathon, one layer per task. Each layer adds one mechanism or one
+real data source, and must improve a fixed score against real data.
+The demo shows the finished, deep simulation. The demo does NOT show AI agents
+that improve the model live. See `context/decisions/20261121-0130-depth-grows-before-demo.md`.
+
 ## The golden rule
 
 **If the demo does not show it, and nothing in the demo needs it, do not build it.**
